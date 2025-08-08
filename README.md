@@ -1,4 +1,4 @@
-Bellabeat Data Cleaning with SQL & BigQuery
+# Bellabeat Data Cleaning with SQL & BigQuery
 Overview
 This repository contains SQL scripts and queries designed to clean and preprocess the raw Bellabeat dataset using Google BigQuery. The cleaned data is further organized and analyzed with Google Sheets to support data exploration and reporting.
 
